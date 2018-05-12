@@ -1,0 +1,30 @@
+_repo: Vi-Bookar-Krokar-och-RotharUr-en-stadskr-nika_15724
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bergman, Hjalmar
+    alias: Bergman, Hjalmar Fredrik Elgerus
+    birthdate: 1883
+    deathdate: 1931
+    gutenberg_agent_id: '4456'
+    url: http://www.gutenberg.org/2009/agents/4456
+    wikipedia:
+    - http://sv.wikipedia.org/wiki/Hjalmar_Bergman
+    - http://en.wikipedia.org/wiki/Hjalmar_Bergman
+description: ''
+gutenberg_issued: '2005-04-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15724'
+language: sv
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Swedish fiction'
+- !lcc 'PT'
+title: 'Vi Bookar, Krokar och Rothar: Ur en stadskrönika'
+url: http://www.gutenberg.org/ebooks/15724
